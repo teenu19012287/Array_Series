@@ -8,3 +8,10 @@ public:
         return arr;
     }
 };
+
+
+// brute force can be
+
+// 1--  generate all the possible permuations
+// 2-- do linear search
+// 3--  Find the next Index
